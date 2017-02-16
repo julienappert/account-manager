@@ -1,0 +1,48 @@
+{
+  "name": "validate-js",
+  "version": "2.0.1",
+  "description": "Lightweight JavaScript form validation library inspired by CodeIgniter.",
+  "main": "validate.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rickharrison/validate.js.git"
+  },
+  "keywords": [
+    "validate",
+    "form",
+    "dom",
+    "browser",
+    "browserify"
+  ],
+  "author": {
+    "name": "Rick Harrison"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rickharrison/validate.js/issues"
+  },
+  "homepage": "https://github.com/rickharrison/validate.js",
+  "gitHead": "d97959ca1364caf732d359f05261545064ab75cd",
+  "_id": "validate-js@2.0.1",
+  "scripts": {},
+  "_shasum": "e9fe263f2dc1294e5c5fc6e8e2eb8fb6d6bac0cc",
+  "_from": "validate-js@latest",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.1.1",
+  "_npmUser": {
+    "name": "rickharrison",
+    "email": "r@rickharrison.me"
+  },
+  "dist": {
+    "shasum": "e9fe263f2dc1294e5c5fc6e8e2eb8fb6d6bac0cc",
+    "tarball": "https://registry.npmjs.org/validate-js/-/validate-js-2.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "rickharrison",
+      "email": "r@rickharrison.me"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/validate-js/-/validate-js-2.0.1.tgz"
+}

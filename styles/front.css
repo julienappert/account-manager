@@ -1,0 +1,100 @@
+.password-score {
+  text-align: center;
+  padding: 5px;
+  font-weight: bold;
+  color: white; }
+
+.password-container .showpassword {
+  cursor: pointer; }
+
+.password-container.score_0 .password-score {
+  background-color: #D9534F;
+  display: block; }
+
+.password-container.score_1 .password-score {
+  background-color: #F0AD4E;
+  display: block; }
+
+.password-container.score_2 .password-score {
+  background-color: #5BC0DE;
+  display: block; }
+
+.password-container.score_3 .password-score {
+  background-color: #337AB7;
+  display: block; }
+
+.password-container.score_4 .password-score {
+  background-color: #5CB85C;
+  display: block; }
+
+.form-gallery .photos-thumbnail {
+  padding: 40px;
+  border-radius: 6px;
+  background: #eee; }
+  .form-gallery .photos-thumbnail ul {
+    list-style: none;
+    margin: 0;
+    padding: 0; }
+    .form-gallery .photos-thumbnail ul li {
+      position: relative; }
+      .form-gallery .photos-thumbnail ul li > button {
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
+        display: none; }
+      .form-gallery .photos-thumbnail ul li:hover > button {
+        display: inline; }
+  .form-gallery .photos-thumbnail .popover {
+    text-align: center;
+    width: 270px; }
+  .form-gallery .photos-thumbnail .photo-thumbnail {
+    width: 25%;
+    float: left;
+    padding: 5px;
+    cursor: move; }
+    .form-gallery .photos-thumbnail .photo-thumbnail .img {
+      width: 100%;
+      height: 150px;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      border: 1px solid #ccc; }
+  .form-gallery .photos-thumbnail .ui-selecting {
+    background: #FECA40; }
+  .form-gallery .photos-thumbnail .ui-selected {
+    background: #F39814;
+    color: white; }
+
+.form-gallery .filelist {
+  list-style: none;
+  margin: 0;
+  padding: 10px; }
+
+.form-gallery .filelist li {
+  padding: 2px 0; }
+
+.form-gallery .filelist li i.fa {
+  padding-right: 10px; }
+
+.form-gallery .console {
+  display: none; }
+
+.ui-autocomplete {
+  position: absolute;
+  cursor: default;
+  z-index: 100;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  background: white;
+  border: 1px solid #d3d3d3; }
+  .ui-autocomplete li {
+    padding: 5px 10px;
+    border-bottom: 1px solid #d3d3d3; }
+  .ui-autocomplete li:hover {
+    background: #f7F7F7; }
+  .ui-autocomplete li:last-child {
+    border-bottom: none; }
+
+/*# sourceMappingURL=front.css.map */

@@ -1,0 +1,13 @@
+{
+    "name": "julienappert/scan-it-website",
+    "require": {
+        "bjeavons/zxcvbn-php": "^0.2.0",
+        "symfony/yaml": "^2.8"
+    },
+    "authors": [
+        {
+            "name": "Julien Appert",
+            "email": "julien@lamourduweb.com"
+        }
+    ]
+}

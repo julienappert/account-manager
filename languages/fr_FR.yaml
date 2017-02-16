@@ -1,0 +1,52 @@
+show_password: Voir le mot de passe
+hide_password: Cacher le mot de passe
+slug:
+  logout: deconnexion
+login:
+  your_email: Votre adresse email :
+  your_password: Votre mot de passe :
+  forgot_password: Mot de passe oublié
+  email_empty: Merci d'entrer votre adresse email de connexion.
+  password_empty: Merci d'entrer votre mot de passe.
+  submit: Connexion
+register:
+  your_email: Votre adresse email :
+  your_password: Votre mot de passe :
+  submit: S'inscrire
+  email_exists: Un compte existe déjà avec cette adresse email.
+  email_novalid: Merci d'utiliser une adresse email valide.
+  password_need: Merci de définir un mot de passe.
+  password_tooweak: Trop faible
+  password_weak: Faible
+  password_somewhat: Moyen
+  password_safe: Fort
+  password_verysafe: Très fort
+  got_errors: Votre compte n'a pas pu être créé à cause des erreurs ci-après.
+account:
+  your_email: Adresse email :
+  your_oldpassword: Mot de passe actuel :
+  your_password: Nouveau mot de passe :
+  submit: Modifier mes informations
+  email_exists: Un compte existe déjà avec cette adresse email.
+  email_novalid: Merci d'utiliser une adresse email valide.
+  oldpassword_notmatch: Ce n'est pas votre mot de passe actuel.
+  password_tooweak: Trop faible
+  password_weak: Faible
+  password_somewhat: Moyen
+  password_safe: Fort
+  password_verysafe: Très fort
+  got_errors: Une ou plusieurs erreurs sont survenues lors de la validation de vos données.
+  updated: Vos données ont bien été mises à jour.
+lostpassword:
+  your_email: Votre adresse email :
+  submit: Générer un nouveau mot de passe
+  email_novalid: Merci d'utiliser une adresse email valide.
+  email_noexists: Cette adresse email ne correspond à aucun compte.
+  email_sent: Vous allez recevoir un email contenant la procédure à suivre pour générer votre nouveau mot de passe.
+  email_subject: Demande de regénération de mot de passe
+  password_changed: Votre mot de passe a bien été modifié.
+  verif_novalid: Le lien sur lequel vous avez cliqué pour modifier votre mot de passe n'est pas valide. Merci d'utiliser le formulaire ci-dessous pour regénérer votre mot de passe.
+changepassword:
+  new_password: Nouveau mot de passe :
+  show_password: Voir le mot de passe
+  submit: Modifier mon mot de passe

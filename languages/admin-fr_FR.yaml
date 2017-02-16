@@ -1,0 +1,9 @@
+settings_saved: Options enregistrées
+pages:
+  title: Gestion des pages
+  select_one_page: Sélectionner une page
+  register: Inscription
+  login: Connexion
+  lost_password: Mot de passe oublié
+  account: Compte utilisateur
+  submit: Enregistrer les modifications
