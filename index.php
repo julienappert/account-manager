@@ -7,15 +7,13 @@ Author URI: http://julienappert.com
 */
 
 
-namespace jappert/acma;
-
 defined( 'ABSPATH' ) or die( 'Cheatin\' uh?' );
 
 define('ACMA_FILE', __FILE__);
 
-require_once dirname(LDWAM_FILE) . '/vendor/autoload.php';
-require_once dirname(LDWAM_FILE) . '/includes/admin.php';
-require_once dirname(LDWAM_FILE) . '/includes/front.php';
+require_once dirname(ACMA_FILE) . '/vendor/autoload.php';
+require_once dirname(ACMA_FILE) . '/includes/admin.php';
+require_once dirname(ACMA_FILE) . '/includes/front.php';
 
 use ZxcvbnPhp\Zxcvbn;
 
